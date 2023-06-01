@@ -3,29 +3,39 @@ When given an app here are steps to build from there:
 
 ## App Development Checklist
 
-1. **Understand the requirements:** Carefully read and comprehend the requirements of the app you are building onto. Discuss any ambiguities or uncertainties with the project stakeholders or your team to ensure a clear understanding of what needs to be achieved.
+1. **Understand the requirements:**  
+   Carefully read and comprehend the requirements of the app you are building onto. Discuss any ambiguities or uncertainties with the project stakeholders or your team to ensure a clear understanding of what needs to be achieved.
 
-2. **Familiarize yourself with the codebase:** Examine the existing codebase to understand its structure, organization, and architecture. Identify key components, modules, and dependencies. This step helps you gain insights into how the app functions and how your additions or modifications can fit into the existing structure.
+2. **Familiarize yourself with the codebase:**  
+   Examine the existing codebase to understand its structure, organization, and architecture. Identify key components, modules, and dependencies. This step helps you gain insights into how the app functions and how your additions or modifications can fit into the existing structure.
 
-3. **Set up the development environment:** Ensure that you have a suitable development environment with the necessary tools and dependencies. Install any required libraries or frameworks, and configure your environment for efficient development. This may involve setting up a version control system, task runner, package manager, or development server.
+3. **Set up the development environment:**  
+   Ensure that you have a suitable development environment with the necessary tools and dependencies. Install any required libraries or frameworks, and configure your environment for efficient development. This may involve setting up a version control system, task runner, package manager, or development server.
 
-4. **Run and test the existing app:** Execute the app and interact with its existing functionality to ensure that it works as expected. Identify any bugs, issues, or areas for improvement. Run tests if they are available, or create new tests if needed. This step helps you establish a baseline for the app's behavior before making changes.
+4. **Run and test the existing app:**  
+   Execute the app and interact with its existing functionality to ensure that it works as expected. Identify any bugs, issues, or areas for improvement. Run tests if they are available, or create new tests if needed. This step helps you establish a baseline for the app's behavior before making changes.
 
-5. **Break down the tasks:** Based on the requirements and your understanding of the codebase, break down the tasks into smaller, manageable units. Identify the areas where you need to make modifications or add new features. Create a roadmap or task list that outlines the sequence of steps you'll follow.
+5. **Break down the tasks:**  
+   Based on the requirements and your understanding of the codebase, break down the tasks  into smaller, manageable units. Identify the areas where you need to make modifications or add new features. Create a roadmap or task list that outlines the sequence of steps you'll follow.
 
-6. **Plan your approach:** Decide on the strategy and approach for implementing the desired changes. Consider factors like code maintainability, reusability, performance, and scalability. Determine whether you need to refactor existing code or create new components. If necessary, sketch out diagrams or wireframes to visualize the changes you'll be making.
+6. **Plan your approach:**  
+   Decide on the strategy and approach for implementing the desired changes. Consider factors like code maintainability, reusability, performance, and scalability. Determine whether you need to refactor existing code or create new components. If necessary, sketch out diagrams or wireframes to visualize the changes you'll be making.
 
-7. **Implement the changes incrementally:** Start implementing the changes based on your plan, working incrementally and testing your changes as you go. This iterative approach helps in identifying and addressing issues early, reducing the risk of introducing bugs that are hard to debug.
+7. **Implement the changes incrementally:**  
+   Start implementing the changes based on your plan, working incrementally and testing your changes as you go. This iterative approach helps in identifying and addressing issues early, reducing the risk of introducing bugs that are hard to debug.
 
-8. **Document your changes:** Maintain clear documentation of the modifications you make, especially if they are complex or impact the overall architecture. Documenting your code, including comments and README files, helps other developers understand your changes and facilitates future maintenance.
+8. **Document your changes:**  
+   Maintain clear documentation of the modifications you make, especially if they are complex or impact the overall architecture. Documenting your code, including comments and README files, helps other developers understand your changes and facilitates future maintenance.
 
-9. **Test thoroughly:** Test your modifications extensively to ensure they work as intended and don't introduce regressions. Write unit tests, integration tests, and end-to-end tests, depending on the scope of your changes. Consider using automated testing tools and frameworks to streamline the testing process.
+9. **Test thoroughly:**  
+   Test your modifications extensively to ensure they work as intended and don't introduce regressions. Write unit tests, integration tests, and end-to-end tests, depending on the scope of your changes. Consider using automated testing tools and frameworks to streamline the testing process.
 
-10. **Collaborate and seek feedback:** Communicate regularly with your team members, project stakeholders, or clients. Share your progress, seek feedback, and incorporate any necessary changes or adjustments. Collaboration ensures that everyone is aligned with the project's goals and reduces the chances of misunderstandings.
+10. **Collaborate and seek feedback:**  
+    Communicate regularly with your team members, project stakeholders, or clients. Share your progress, seek feedback, and incorporate any necessary changes or adjustments. Collaboration ensures that everyone is aligned with the project's goals and reduces the chances of misunderstandings.
 
 Remember to maintain good coding practices, adhere to any existing coding standards, and follow the app's architecture to ensure consistency and maintainability.
 
-Additional Considerations:
+Additional Considerations:  
 
 - **Identify the app's dependencies:** Take note of any external libraries, frameworks, or APIs that the app relies on. Make sure you have a clear understanding of how these dependencies are used within the codebase and check for any necessary updates or compatibility issues.
 
